@@ -11,7 +11,7 @@ This repository contains projects that demonstrate my work in **data collection,
 
 ---
 
-# 👤 About Me
+# About Me
 
 I am a **Data Analytics graduate (2024)** with experience in **data management, dashboard creation, and data reporting**.
 
@@ -26,7 +26,7 @@ I enjoy building **structured datasets and clear visualizations that make comple
 
 ---
 
-# 🛠 Skills & Tools
+# Skills & Tools
 
 ## Data Analysis
 - Data Cleaning and Preparation
